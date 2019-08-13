@@ -4,7 +4,7 @@ This is an expiremental IRC server. It should not be used in production.
 
 # Running
 
-The [run.bat](https://github.com/denolibs/deno_template/blob/master/run.bat) file should be used to start the server.<br>
+The [run.bat](https://github.com/ozjd/irc8/blob/master/run.bat) file should be used to start the server.<br>
 
 * Windows (Command Prompt)
     ```run [args]```
